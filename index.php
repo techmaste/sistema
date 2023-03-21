@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="Assents/css/estilo.css">
 </head>
 <body>
+
 <section>
     <div class="container">
         <form action="" method="post">
@@ -15,7 +16,9 @@
             <input type="text" name="user" id="user" class="form-control" placeholder="informe seu usuário"><p></p>
 
             <label for="pw">senha</label>
-            <input type="password" name="pw" id="pw" class="form-control" placeholder="informe sua senha"><b></b>
+            <input type="password" name="pw" id="pw" class="form-control" placeholder="informe sua senha"><p></p>
+
+            <button type="submit" class="btn btn btn-primary">Acessa</button>
         </form>
     </div>
 </section>
